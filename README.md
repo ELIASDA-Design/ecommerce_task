@@ -2,7 +2,7 @@
 
 Simply to run this project just follow the steps below:
 
-1- `git clone https://github.com/ELIASDA-Design/ecommerce_task.git`
+1- `git clone https://github.com/ELIASDA-Design/ecommerce_task.git` <br/>
 2- `cd ecommerce_task/`<br/>
 3- `composer install` <br/>
 4-  `npm install` <br/>
